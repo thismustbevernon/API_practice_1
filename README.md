@@ -5,13 +5,13 @@ Personal Project notes:
 
 Node commands
 
-npm init -y
-npm install --save express
-node index.js
-npm install --save-dev nodemon
-Then update script to start
+-npm init -y
+-npm install --save express
+-node index.js
+-npm install --save-dev nodemon
+-Then update script to start
 
- npm start
+ -npm start
 
 
 -Set up basic express server
